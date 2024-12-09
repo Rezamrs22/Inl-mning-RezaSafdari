@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Reza\\Desktop\\Developer\\Database\\Inlämning\\Bibliotek\\Bibliotek.csproj": {}
+    "c:\\Users\\Reza\\Desktop\\Developer\\Database\\Inlämning\\Bibliotek\\Bibliotek.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Reza\\Desktop\\Developer\\Database\\Inlämning\\Bibliotek\\Bibliotek.csproj": {
+    "c:\\Users\\Reza\\Desktop\\Developer\\Database\\Inlämning\\Bibliotek\\Bibliotek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Reza\\Desktop\\Developer\\Database\\Inlämning\\Bibliotek\\Bibliotek.csproj",
+        "projectUniqueName": "c:\\Users\\Reza\\Desktop\\Developer\\Database\\Inlämning\\Bibliotek\\Bibliotek.csproj",
         "projectName": "Bibliotek",
-        "projectPath": "C:\\Users\\Reza\\Desktop\\Developer\\Database\\Inlämning\\Bibliotek\\Bibliotek.csproj",
+        "projectPath": "c:\\Users\\Reza\\Desktop\\Developer\\Database\\Inlämning\\Bibliotek\\Bibliotek.csproj",
         "packagesPath": "C:\\Users\\Reza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Reza\\Desktop\\Developer\\Database\\Inlämning\\Bibliotek\\obj\\",
+        "outputPath": "c:\\Users\\Reza\\Desktop\\Developer\\Database\\Inlämning\\Bibliotek\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
